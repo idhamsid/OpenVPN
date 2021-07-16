@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <style name="AppTheme" parent="@style/Theme.MaterialComponents.DayNight.NoActionBar">
+      <item name="colorPrimary">@color/primary</item>
+      <item name="colorPrimaryDark">@color/background</item>
+      <item name="windowActionBar">false</item>
+      <item name="windowNoTitle">true</item>
+   </style>
+
+   <style name="AppTheme.Startup" parent="AppTheme">
+      <item name="android:windowBackground">@drawable/splash_background</item>
+   </style>
+
+   <style name="AppTheme.Main" parent="AppTheme">
+      <item name="colorAccent">@color/accent</item>
+      <item name="android:windowBackground">@color/background</item>
+      <item name="materialAlertDialogTheme">@style/AppTheme.MaterialAlertDialog</item>
+   </style>
+
+   <style name="AppTheme.MaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+      <item name="dialogCornerRadius">8dp</item>
+   </style>
+
+</resources>

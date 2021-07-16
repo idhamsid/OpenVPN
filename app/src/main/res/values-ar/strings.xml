@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="settings">الاعدادات</string>
+   <string name="close_drawer">فتح القائمة</string>
+   <string name="open_drawer">غلق القائمة</string>
+   <string name="auto">تلقائي</string>
+
+   <string name="nought_alwayson_warning"><![CDATA[If you did not get a VPN confirmation dialog, you have \"Always on VPN\" enabled for another app. In that case only that app is allowed to connect to a VPN. Check under Settings-> Networks more .. -> VPNS]]></string>
+   <string name="open_settings">الاعدادات</string>
+   <string name="home">الرئيسية</string>
+   <string name="allowed_apps">التطبيقات المفعلة</string>
+   <string name="select_server">اختيار الموقع:</string>
+   <string name="not_connected">غير متصل</string>
+   <string name="connected">متصل</string>
+   <string name="connecting">جاري الإتصال…</string>
+
+   <string name="log_no_internet">الرجاء الاتصال بالشبكة أولا</string>
+   <string name="log_reload">الرجاء اعادة الاتصال لتفعيل الاختيار</string>
+
+   <string name="share_message">https://play.google.com/store/apps/details?id=%1$s تمتع بانترنت آمن وسريع</string>
+   <string name="loading">جاري التحميل…</string>
+   <string name="active_apps_count">(%2$d/%1$d)التطبيقات المفعلة </string>
+   <string name="reset">إعادة تعيين</string>
+   <string name="appearance">المظهر</string>
+
+   <string name="server_unreachable">لا يمكن الاتصال بالسيرفر، الرجاء اعادة المحاولة لاحقا!</string>
+   <string name="unknown_error">خطأ مجهول، الرجاء اعادة المحاولة</string>
+   <string name="click_retry">اضغط هنا لإعادة المحاولة</string>
+   <string name="agree_label">مواصلة استعمال التطبيق يعني قبولك سياسة الخصوصية و شروط الاستخدام</string>
+   <string name="privacy_policy">سياسة الخصوصية</string>
+   <string name="terms_of_service">شروط الاستخدام</string>
+   <string name="continue_to_app">مواصلة</string>
+   <string name="no_servers">لا توجد أية سيرفرات متوفرة حاليا!</string>
+   <string name="close_app">غلف التطبيق</string>
+   <string name="disconnect_alert_title">تحذير فصل الإتصال</string>
+   <string name="server_change_disconnect_alert_message">تغيير الخادم سيسبب فصل الإتصال. هل تريد المواصلة؟</string>
+
+   <string name="notifications">الاشعارات</string>
+   <string name="dark_mode">الوضع المظلم</string>
+   <string name="persistent_notification_summary">اظهار الشعار الثابت</string>
+   <string name="persistent_notification">الشعار الثابت</string>
+   <string name="persistent_notif_title">غير متصل!</string>
+   <string name="persistent_notif_text">اتصل لتكون بأمان</string>
+   <string name="connected_to">متصل ب%1$s</string>
+   <string name="reconnecting">اعادة الاتصال…</string>
+   <string name="subscription">الاشتراك</string>
+   <string name="subscribe_prompt">تمتع بتطبيق خال كليا من الاعلانات فقط بـ:</string>
+   <string name="purchase_flow_fail">خطأ أثناء الاشتراك</string>
+   <string name="monthly_prompt">* الاشتراكات الشهرية تجدد تلقائيا كل شهر</string>
+   <string name="monthly_price">%1$s/في الشهر</string>
+   <string name="yearly_price">%1$s/في السنة</string>
+
+   <string name="language_pref_title">اللغة</string>
+   <string name="default_mode">افتراضي (نظام)</string>
+   <string name="lang_summary">اللغة المحددة الحالية هي %1$s</string>
+   <string name="language_dialog_title">حدد لغة العرض</string>
+   <string name="display_mode_summary">تم ضبط وضع العرض على: %1$s</string>
+   <string name="dark">مظلم</string>
+   <string name="light">مضيء</string>
+   <string name="connect">اتصال</string>
+   <string name="disconnect">قطع الاتصال</string>
+   <string name="no_app_event">عذرًا ، لا يوجد تطبيق للتعامل مع هذا الإجراء</string>
+   <string name="app_search_hint">اكتب اسم التطبيق</string>
+   <string name="app_search_placeholder">تطبيقات البحث هنا</string>
+   <string name="app_info">تصفح الإنترنت بحرية وأمان</string>
+   <string name="go_back">رجوع</string>
+   <string name="username">اسم المستخدم</string>
+   <string name="password">كلمة المرور</string>
+   <string name="show_password">إظهار كلمة المرور</string>
+   <string name="save_password">حفظ كلمة السر</string>
+   <string name="apps_using_change_disconnect_alert_message">تم تغيير تكوين التطبيقات. تحتاج إلى إعادة الاتصال حتى تدخل هذه التغييرات حيز التنفيذ. هل تريد قطع الاتصال الآن؟</string>
+
+   <string name="update_required">التحديث مطلوب</string>
+   <string name="update_required_message">يتوفر تحديث جديد. يوصى بشدة بتثبيت التحديث للاستمرار في استخدام تطبيقنا دون أي مشاكل.</string>
+   <string name="help_us_prompt">نحتاج إلى مساعدتكم للحفاظ على سيرفراتنا وتشغيلها</string>
+
+   <string name="downloads">التنزيلات: %1$s</string>
+   <string name="uploads">التحميلات: %1$s</string>
+   <string name="notif_rate">التنزيلات: %1$s عمليات التحميل: %2$s</string>
+   <string name="channel_name_background">إحصائيات الاتصال</string>
+   <string name="channel_description_background">إحصائيات مستمرة لاتصال OpenVPN الذي تم إنشاؤه</string>
+   <string name="channel_name_status">تغيير حالة الاتصال</string>
+   <string name="channel_description_status">تغيرات حالة اتصال OpenVPN (اتصال ، مصادقة ، …)</string>
+   <string name="channel_name_user_req">مطلوب تفاعل المستخدم</string>
+   <string name="channel_description_user_req">يتطلب اتصال OpenVPN إدخال المستخدم ، على سبيل المثال المصادقة الثنائية</string>
+   <string name="first_time_load">يتم التحميل لأول مرة \n الرجاء الانتظار…</string>
+   <string name="retry">أعد المحاولة</string>
+   <string name="connecting_to">الاتصال بـ%1$s</string>
+   <string name="load_servers_error">خطأ أثناء تحميل الخوادم! الرجاء النقر أدناه لإعادة المحاولة.</string>
+
+   <string name="certificate_outdated_update_prompt">الشهادة المستخدمة قديمة. يرجى تحديث التطبيق لمتابعة الاتصال بشكل طبيعي.</string>
+   <string name="illegal_copy">نسخة غير شرعية</string>
+   <string name="unlicensed_copy">يبدو أنك تستخدم نسخة غير مرخصة من التطبيق. يرجى تنزيل التطبيق من متجر Google Play ، فهو مجاني تمامًا.</string>
+   <string name="download">تحميل</string>
+   <string name="uninstall_toast">تحتاج إلى إلغاء تثبيت التطبيق أولاً</string>
+
+   <string name="version_1_s">الإصدار: %1$s</string>
+   <string name="hide_servers_list">إخفاء قائمة الخوادم</string>
+   <string name="refresh_servers_list">تحديث قائمة الخوادم</string>
+   <string name="purchase_description">اشترك في إزالة الإعلانات</string>
+   <string name="rate_description">قيمنا</string>
+   <string name="share_description">مشاركة التطبيق</string>
+   <string name="support_us_title">ادعمنا</string>
+   <string name="support_us_prompt">ستساعدنا بضع ثوانٍ من وقتك على تنمية خوادمنا. هل ترغب في عرض إعلان سريع؟</string>
+
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="nought_alwayson_warning"><![CDATA[If you did not get a VPN confirmation dialog, you have \"Always on VPN\" enabled for another app. In that case only that app is allowed to connect to a VPN. Check under Settings-> Networks more .. -> VPNS]]></string>
+   <string name="open_settings">Go to Settings</string>
+   <string name="home">Home</string>
+   <string name="allowed_apps">Allowed apps</string>
+   <string name="settings">Settings</string>
+   <string name="close_drawer">Close drawer</string>
+   <string name="open_drawer">Open drawer</string>
+   <string name="auto">Auto</string>
+   <string name="select_server">Select desired server:</string>
+   <string name="not_connected">Not connected</string>
+   <string name="connected">Connected</string>
+   <string name="connecting">Connecting…</string>
+   <string name="connected_to">Connected to %1$s</string>
+   <string name="connecting_to">Connecting to %1$s</string>
+   <string name="reconnecting">Reconnecting…</string>
+
+   <string name="log_no_internet">Please connect to Internet first</string>
+   <string name="log_reload">Please reconnect to apply changes</string>
+
+   <string name="share_message">Browse the Internet Securely and freely: https://play.google.com/store/apps/details?id=%1$s</string>
+   <string name="loading">Loading…</string>
+   <string name="active_apps_count">Active apps (%1$d/%2$d)</string>
+   <string name="reset">Reset</string>
+   <string name="appearance">Appearance</string>
+
+   <string name="server_unreachable">Cannot connect to server. Please try again later!</string>
+   <string name="unknown_error">Something wrong happened, please try again later.</string>
+   <string name="click_retry">Click here to retry</string>
+   <string name="agree_label">By continuing to the app, you agree to our <b>Privacy Policy</b> and <b>Terms of Service</b></string>
+   <string name="privacy_policy">Privacy Policy</string>
+   <string name="terms_of_service">Terms of Service</string>
+   <string name="continue_to_app">Continue to App</string>
+   <string name="no_servers">No servers found!</string>
+   <string name="close_app">Close app</string>
+   <string name="disconnect_alert_title">Disconnect Alert</string>
+   <string name="server_change_disconnect_alert_message">Changing server will make your current connection drop. Do you want to continue?</string>
+
+   <string name="notifications">Notifications</string>
+   <string name="dark_mode">Dark mode</string>
+   <string name="persistent_notification_summary">Show persistent notification in the Notification bar</string>
+   <string name="persistent_notification">Persistent notification</string>
+   <string name="persistent_notif_title">VPN not connected!</string>
+   <string name="persistent_notif_text">Connect to be SAFE…</string>
+   <string name="subscription">Subscribe</string>
+   <string name="monthly_prompt">* Monthly subscription will auto-renew each month</string>
+   <string name="monthly_price">%1$s/Month</string>
+   <string name="yearly_price">%1$s/Year</string>
+   <string name="purchase_flow_fail">Failed to start purchase event</string>
+   <string name="subscribe_prompt">Enjoy ads-free vpn app for only:</string>
+
+   <string name="language_pref_title">Language</string>
+   <string name="default_mode">Default (system)</string>
+   <string name="lang_summary">Current selected language is %1$s</string>
+   <string name="language_dialog_title">Select display language</string>
+   <string name="display_mode_summary">Display mode set to: %1$s</string>
+   <string name="dark">Dark</string>
+   <string name="light">Light</string>
+   <string name="connect">Connect</string>
+   <string name="disconnect">Disconnect</string>
+   <string name="no_app_event">Sorry, no app to handle this action</string>
+   <string name="app_search_hint">Type app name</string>
+   <string name="app_search_placeholder">Search apps here</string>
+   <string name="app_info">Browse the Internet Freely and Securely</string>
+   <string name="go_back">Go Back</string>
+   <string name="username">Username</string>
+   <string name="password">Password</string>
+   <string name="show_password">Show password</string>
+   <string name="save_password">Save password</string>
+   <string name="apps_using_change_disconnect_alert_message">Apps configuration has changed. You need to reconnect for those changes to take effect. Do you want to disconnect now?</string>
+
+   <string name="update_required">Update Required</string>
+   <string name="update_required_message">A new update is available. It is highly recommended that you install the update to keep using our app without any problems.</string>
+   <string name="help_us_prompt">We need your help to maintain our servers up and running</string>
+
+   <string name="downloads">Downloads: %1$s</string>
+   <string name="uploads">Uploads: %1$s</string>
+   <string name="notif_rate">Downloads: %1$s Uploads: %2$s</string>
+
+   <string name="channel_name_background">Connection statistics</string>
+   <string name="channel_description_background">Ongoing statistics of the established OpenVPN connection</string>
+   <string name="channel_name_status">Connection status change</string>
+   <string name="channel_description_status">Status changes of the OpenVPN connection (Connecting, authenticating,…)</string>
+   <string name="channel_name_user_req">User interaction required</string>
+   <string name="channel_description_user_req">OpenVPN connection requires a user input, e.g. two factor authentication</string>
+   <string name="first_time_load">Loading for the first time\n Please wait…</string>
+   <string name="retry">Retry</string>
+   <string name="load_servers_error">Error while loading Servers! Please click below to retry.</string>
+   <string name="certificate_outdated_update_prompt">Used certificate out of date. Please update app to continue connecting normally.</string>
+   <string name="illegal_copy">Illegal copy</string>
+   <string name="unlicensed_copy">It seems that you are using an unlicensed copy of the app. Please download the app from Google Play Store, it is completely free.</string>
+   <string name="download">Download</string>
+   <string name="uninstall_toast">You need to uninstall app first</string>
+   <string name="version_1_s">Version: %1$s</string>
+   <string name="hide_servers_list">Hide servers list</string>
+   <string name="refresh_servers_list">Refresh servers list</string>
+   <string name="purchase_description">Subscribe to remove ads</string>
+   <string name="rate_description">Rate us</string>
+   <string name="share_description">Share app</string>
+   <string name="support_us_title">Support Us</string>
+   <string name="support_us_prompt">A few seconds of your time will help us grow our servers. Do you wish to view a quick ad?</string>
+
+</resources>

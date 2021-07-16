@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/ovpn-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9edd754ba674bc4cf85e39bfa3c4dc38/jetified-ovpn-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9edd754ba674bc4cf85e39bfa3c4dc38/jetified-ovpn-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9edd754ba674bc4cf85e39bfa3c4dc38/jetified-ovpn-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

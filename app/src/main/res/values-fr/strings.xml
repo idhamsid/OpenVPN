@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="nought_alwayson_warning"><![CDATA[Si vous n\'avez pas eu une fenêtre de confirmation, vous avez déjà l\'option \"VPN toujours actid\" pour une autre application. Dans ce cas, seulement cette application est autoriée à connecter aux VPNs. Vérifier dans les paramètres -> Réseaux et autres…-> VPNS]]></string>
+   <string name="open_settings">Paramètres</string>
+   <string name="home">Accueil</string>
+   <string name="allowed_apps">Applis autorisées</string>
+   <string name="settings">Paramètres</string>
+   <string name="close_drawer">Fermer navigation</string>
+   <string name="open_drawer">Ouvrir navigation</string>
+   <string name="auto">Auto</string>
+   <string name="select_server">Sélectionner une region:</string>
+   <string name="not_connected">Non connecté</string>
+   <string name="connected">Connecté</string>
+   <string name="connecting">Connexion en cours</string>
+   <string name="reconnecting">Reconnexion…</string>
+
+   <string name="log_no_internet">Veuillez voue connecter à Internet d\'abord</string>
+   <string name="log_reload">Veuillez vous reconnecter pour appliquer les changement</string>
+
+   <string name="share_message">Naviguer l\'internet librement et rapidement: https://play.google.com/store/apps/details?id=%1$s</string>
+   <string name="loading">Chargement…</string>
+   <string name="active_apps_count">Applis actives (%1$d/%2$d)</string>
+   <string name="reset">Réinitialiser</string>
+   <string name="appearance">Apparence</string>
+
+   <string name="server_unreachable">Impossible de se connecter au serveur. Veuillez réessayer plus târd!</string>
+   <string name="unknown_error">Erreur inconnue, veuillez réessayer.</string>
+   <string name="click_retry">Cliquer ici pour recommencer</string>
+   <string name="agree_label">En continuant vers l\'application, vous accepter notre <b>Politique de confidentialité</b> et <b>Les conditions d\'utilisation</b></string>
+   <string name="privacy_policy">Politique de confidentialité</string>
+   <string name="terms_of_service">Les conditions d\'utilisation</string>
+   <string name="continue_to_app">Continuer</string>
+   <string name="no_servers">Aucun serveur trouvé!</string>
+   <string name="close_app">Fermer l\'appli</string>
+   <string name="disconnect_alert_title">Déconnexion</string>
+   <string name="server_change_disconnect_alert_message">Changer le serveur vas terminer votre connexion actulle. Voulez-vous continuer?</string>
+
+   <string name="notifications">Notifications</string>
+   <string name="dark_mode">Mode nuit</string>
+   <string name="persistent_notification_summary">Afficher une notification permanente</string>
+   <string name="persistent_notification">Notification permanente</string>
+   <string name="persistent_notif_title">VPN non connecté!</string>
+   <string name="persistent_notif_text">Connectez-vous pour plus de sécurité…</string>
+   <string name="connected_to">Connecté à %1$s</string>
+   <string name="subscription">Souscrire</string>
+   <string name="subscribe_prompt">Profitez de l\'application VPN sans publicité pour seulement:</string>
+   <string name="purchase_flow_fail">Erreur pendant la souscription</string>
+   <string name="monthly_prompt">* L\'abonnement mensuel se renouvellera automatiquement chaque mois</string>
+   <string name="monthly_price">%1$s/Mois</string>
+   <string name="yearly_price">%1$s/Ans</string>
+
+   <string name="language_pref_title">Langue</string>
+   <string name="default_mode">Par défaut (système)</string>
+   <string name="lang_summary">La langue actuellement sélectionnée est %1$s</string>
+   <string name="language_dialog_title">Sélectionnez la langue d\'affichage</string>
+   <string name="display_mode_summary">Mode d\'affichage défini sur: %1$s</string>
+   <string name="dark">Sombre</string>
+   <string name="light">Lumière</string>
+   <string name="connect">Se Connecter</string>
+   <string name="disconnect">Se Déconnecter</string>
+   <string name="no_app_event">Désolé, aucune application pour gérer cette action</string>
+   <string name="app_search_hint">Tapez le nom de l\'application</string>
+   <string name="app_search_placeholder">Rechercher des applications ici</string>
+   <string name="app_info">Naviguez sur Internet librement et en toute sécurité</string>
+   <string name="go_back">Revenir en arrière</string>
+   <string name="username">Nom d\'utilisateur</string>
+   <string name="password">Mot de passe</string>
+   <string name="show_password">Afficher le mot de passe</string>
+   <string name="save_password">Enregistrer le mot de passe</string>
+   <string name="apps_using_change_disconnect_alert_message">La configuration des applications a changé. Vous devez vous reconnecter pour que ces modifications prennent effet. Voulez-vous vous déconnecter maintenant?</string>
+
+   <string name="update_required">Mise à jour requise</string>
+   <string name="update_required_message">Une nouvelle mise à jour est disponible. Il est fortement recommandé d\'installer la mise à jour pour continuer à utiliser notre application sans aucun problème.</string>
+   <string name="help_us_prompt">Nous avons besoin de votre aide pour maintenir nos serveurs opérationnels</string>
+
+   <string name="downloads">Téléchargements:%1$s</string>
+   <string name="uploads">Importations:%1$s</string>
+   <string name="notif_rate">Téléchargements:%1$s Téléchargements:%2$s</string>
+   <string name="channel_name_background">Statistiques de connexion</string>
+   <string name="channel_description_background">Statistiques en cours de la connexion OpenVPN établie</string>
+   <string name="channel_name_status">Changement d\'état de connexion</string>
+   <string name="channel_description_status">Changements d\'état de la connexion OpenVPN (Connexion, authentification,…)</string>
+   <string name="channel_name_user_req">Interaction de l\'utilisateur requise</string>
+   <string name="channel_description_user_req">La connexion OpenVPN nécessite une entrée utilisateur, par ex. authentification à deux facteurs</string>
+   <string name="first_time_load">Chargement pour la première fois \n Veuillez patienter…</string>
+   <string name="retry">Réessayer</string>
+   <string name="connecting_to">Connexion à%1$s</string>
+   <string name="load_servers_error">Erreur lors du chargement des serveurs! Veuillez cliquer ci-dessous pour réessayer.</string>
+
+   <string name="certificate_outdated_update_prompt">Certificat utilisé périmé. Veuillez mettre à jour l\'application pour continuer à vous connecter normalement.</string>
+   <string name="illegal_copy">Copie illégale</string>
+   <string name="unlicensed_copy">Il semble que vous utilisez une copie sans licence de l\'application. Veuillez télécharger l\'application sur Google Play Store, elle est entièrement gratuite.</string>
+   <string name="download">Télécharger</string>
+   <string name="uninstall_toast">Vous devez d\'abord désinstaller l\'application</string>
+
+   <string name="version_1_s">Version: %1$s</string>
+   <string name="hide_servers_list">Masquer la liste des serveurs</string>
+   <string name="refresh_servers_list">Actualiser la liste des serveurs</string>
+   <string name="purchase_description">Abonnez-vous pour supprimer les publicités</string>
+   <string name="rate_description">Évaluez-nous</string>
+   <string name="share_description">Partager l\'application</string>
+   <string name="support_us_title">Soutenez-nous</string>
+   <string name="support_us_prompt">Quelques secondes de votre temps nous aideront à développer nos serveurs. Souhaitez-vous voir une annonce rapide?</string>
+
+</resources>

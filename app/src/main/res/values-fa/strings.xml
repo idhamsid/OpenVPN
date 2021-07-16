@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="nought_alwayson_warning"><![CDATA[اگر گفتگوی تأیید VPN را دریافت نکردید ، \ "Always on VPN \" را برای برنامه دیگری فعال کرده باشید. در این حالت فقط آن برنامه مجاز به اتصال به VPN است. در بخش تنظیمات -> شبکه ها بیشتر بررسی کنید .. -> VPNS]]></string>
+   <string name="open_settings">به تنظیمات بروید</string>
+   <string name="home">خانه</string>
+   <string name="allowed_apps">برنامه های مجاز</string>
+   <string name="settings">تنظیمات</string>
+   <string name="close_drawer">کشو را ببند</string>
+   <string name="open_drawer">کشوی باز</string>
+   <string name="auto">خودکار</string>
+   <string name="select_server">مکان مورد نظر را انتخاب کنید:</string>
+   <string name="not_connected">متصل نیست</string>
+   <string name="connected">متصل شد</string>
+   <string name="connecting">اتصال…</string>
+   <string name="connected_to">به%1$s متصل شد</string>
+   <string name="reconnecting">اتصال مجدد…</string>
+
+   <string name="log_no_internet">لطفاً ابتدا به اینترنت متصل شوید</string>
+   <string name="log_reload">لطفاً برای اعمال تغییرات مجدداً به هم وصل شوید</string>
+
+   <string name="share_message">اینترنت را ایمن و آزادانه مرور کنید: https://play.google.com/store/apps/details?id=%1$s</string>
+   <string name="loading">در حال بارگیری…</string>
+   <string name="active_apps_count">برنامه های فعال (%1$d/%2$d)</string>
+   <string name="reset">بازنشانی</string>
+   <string name="appearance">ظاهر</string>
+
+   <string name="server_unreachable">ارتباط با سرور ممکن نیست. لطفا بعداً دوباره امتحان کنید!</string>
+   <string name="unknown_error">مشکلی پیش آمده است ، لطفاً بعداً دوباره امتحان کنید.</string>
+   <string name="click_retry">برای تلاش مجدد اینجا کلیک کنید</string>
+   <string name="agree_label">با ادامه دادن به برنامه ، شما با <b> خط مشی رازداری </b> و <b> شرایط خدمات </b> ما موافقت می کنید سیاست حفظ حریم خصوصی</string>
+   <string name="privacy_policy">شرایط خدمات</string>
+   <string name="terms_of_service">ادامه به برنامه</string>
+   <string name="continue_to_app">هیچ سروری پیدا نشد!</string>
+   <string name="no_servers">بستن برنامه</string>
+   <string name="close_app">هشدار را قطع کنید</string>
+   <string name="disconnect_alert_title">تغییر سرور باعث قطع اتصال فعلی شما می شود. می خواهید ادامه دهید؟</string>
+   <string name="server_change_disconnect_alert_message">مکان %1$s</string>
+
+   <string name="notifications">حالت تاریک</string>
+   <string name="dark_mode">حالت تاریک</string>
+   <string name="persistent_notification_summary">نمایش اعلان مداوم در نوار اعلان</string>
+   <string name="persistent_notification">اطلاع رسانی مداوم</string>
+   <string name="persistent_notif_title">VPN متصل نیست!</string>
+   <string name="persistent_notif_text">اتصال به SAFE Connect</string>
+   <string name="subscription">اشتراک</string>
+   <string name="monthly_prompt">* اشتراک ماهانه هر ماه به طور خودکار تمدید می شود</string>
+   <string name="monthly_price">%1$s/ماه</string>
+   <string name="yearly_price">%1$s/سال</string>
+   <string name="purchase_flow_fail">رویداد خرید شروع نشد</string>
+   <string name="subscribe_prompt">فقط از برنامه vpn بدون تبلیغات لذت ببرید:</string>
+
+   <string name="language_pref_title">زبان</string>
+   <string name="default_mode">پیش فرض (سیستم)</string>
+   <string name="lang_summary">زبان فعلی انتخاب شده %1$s</string>
+   <string name="language_dialog_title">است زبان نمایش را انتخاب کنید</string>
+   <string name="display_mode_summary">حالت نمایش روی: %1$s</string>
+   <string name="dark">تنظیم شد تاریک</string>
+   <string name="light">نور</string>
+   <string name="connect">متصل شوید</string>
+   <string name="disconnect">قطع شدن</string>
+   <string name="no_app_event">با عرض پوزش ، هیچ برنامه ای برای رسیدگی به این اقدام</string>
+   <string name="app_search_hint">نام برنامه را تایپ کنید</string>
+   <string name="app_search_placeholder">برنامه ها را در اینجا جستجو کنید</string>
+   <string name="app_info">مرور آزادانه و ایمن اینترنت</string>
+   <string name="go_back">برگشت</string>
+   <string name="username">نام کاربری</string>
+   <string name="password">رمز عبور</string>
+   <string name="show_password">نمایش گذرواژه</string>
+   <string name="save_password">ذخیره رمز</string>
+   <string name="apps_using_change_disconnect_alert_message">پیکربندی برنامه ها تغییر کرده است. برای اینکه این تغییرات اعمال شود باید دوباره وصل شوید. آیا می خواهید اکنون ارتباط خود را قطع کنید؟</string>
+
+   <string name="update_required">به روز رسانی مورد نیاز است</string>
+   <string name="update_required_message">به روزرسانی جدیدی موجود است. بسیار توصیه می شود که برای ادامه استفاده از برنامه ما بدون هیچ مشکلی ، به روزرسانی را نصب کنید.</string>
+   <string name="help_us_prompt">برای ادامه کار و سرور سرورهای خود به کمک شما نیاز داریم</string>
+
+   <string name="downloads">بارگیری ها:%1$s</string>
+   <string name="uploads">بارگذاری ها:%1$s</string>
+   <string name="notif_rate">بارگیری ها:%1$s بارگذاری ها:%2$s</string>
+   <string name="channel_name_background">آمار اتصال</string>
+   <string name="channel_description_background">آمار در حال انجام اتصال OpenVPN برقرار شده</string>
+   <string name="channel_name_status">تغییر وضعیت اتصال</string>
+   <string name="channel_description_status">تغییرات وضعیت اتصال OpenVPN (اتصال ، احراز هویت ، …)</string>
+   <string name="channel_name_user_req">تعامل کاربر مورد نیاز است</string>
+   <string name="channel_description_user_req">اتصال OpenVPN به ورودی کاربر نیاز دارد ، به عنوان مثال. احراز هویت دو عاملی</string>
+   <string name="first_time_load">بارگیری برای اولین بار \n لطفا صبر کنید…</string>
+   <string name="retry">دوباره امتحان کنید</string>
+   <string name="connecting_to">در حال اتصال به%1$s</string>
+   <string name="load_servers_error">هنگام بارگیری سرورها خطایی رخ داد! برای تلاش مجدد لطفاً روی زیر کلیک کنید</string>
+
+   <string name="certificate_outdated_update_prompt">گواهی استفاده شده از تاریخ گذشته است. لطفاً برنامه را برای ادامه اتصال عادی به روز کنید.</string>
+   <string name="illegal_copy">کپی غیرقانونی</string>
+   <string name="unlicensed_copy">به نظر می رسد که شما از یک کپی بدون مجوز برنامه استفاده می کنید. لطفاً برنامه را از فروشگاه Google Play بارگیری کنید ، کاملاً رایگان است.</string>
+   <string name="download">بارگیری</string>
+   <string name="uninstall_toast">ابتدا باید برنامه را حذف نصب کنید</string>
+
+   <string name="version_1_s">نسخه: %1$s</string>
+   <string name="hide_servers_list">پنهان کردن لیست سرورها</string>
+   <string name="refresh_servers_list">تازه کردن لیست سرورها</string>
+   <string name="purchase_description">برای حذف تبلیغات مشترک شوید</string>
+   <string name="rate_description">به ما امتیاز دهید</string>
+   <string name="share_description">اشتراک برنامه</string>
+   <string name="support_us_title">از ما پشتیبانی کنید</string>
+   <string name="support_us_prompt">چند ثانیه از وقت شما به ما کمک می کند تا سرورهای خود را رشد دهیم. آیا می خواهید یک تبلیغ سریع مشاهده کنید؟</string>
+
+</resources>

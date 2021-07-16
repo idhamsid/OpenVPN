@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="nought_alwayson_warning"><![CDATA[Если вы не получили диалоговое окно подтверждения VPN, значит, у вас включен параметр \ "Always on VPN \" для другого приложения. В этом случае только этому приложению разрешено подключаться к VPN. Проверьте в разделе Настройки-> Сети подробнее .. -> VPNS]]></string>
+   <string name="open_settings">Зайдите в Настройки</string>
+   <string name="home">Главная</string>
+   <string name="allowed_apps">Разрешенные приложения</string>
+   <string name="settings">Настройки</string>
+   <string name="close_drawer">Закрыть ящик</string>
+   <string name="open_drawer">Открытый ящик</string>
+   <string name="auto">Авто</string>
+   <string name="select_server">Выберите желаемое место:</string>
+   <string name="not_connected">Не подключено</string>
+   <string name="connected">Подключено</string>
+   <string name="connecting">Подключение…</string>
+   <string name="connected_to">Подключено к %1$s</string>
+   <string name="reconnecting">Повторное подключение…</string>
+
+   <string name="log_no_internet">Пожалуйста, сначала подключитесь к Интернету</string>
+   <string name="log_reload">Пожалуйста, подключитесь повторно, чтобы применить изменения</string>
+
+   <string name="share_message">Работайте в Интернете безопасно и свободно: https://play.google.com/store/apps/details?id=%1$s</string>
+   <string name="loading">Загрузка…</string>
+   <string name="active_apps_count">Активные приложения (%1$d/%2$d)</string>
+   <string name="reset">Сбросить</string>
+   <string name="appearance">Внешний вид</string>
+
+   <string name="server_unreachable">Нет соединения с сервером. Пожалуйста, попробуйте позже!</string>
+   <string name="unknown_error">Произошла ошибка. Повторите попытку позже.</string>
+   <string name="click_retry">Нажмите здесь, чтобы повторить попытку</string>
+   <string name="agree_label">Продолжая использовать приложение, вы соглашаетесь с нашей <b>Политикой конфиденциальности</b> и <b>Условиями использования </b></string>
+   <string name="privacy_policy">Политика конфиденциальности</string>
+   <string name="terms_of_service">Условия использования</string>
+   <string name="continue_to_app">Продолжить в приложении</string>
+   <string name="no_servers">Серверов не найдено!</string>
+   <string name="close_app">Закрыть приложение</string>
+   <string name="disconnect_alert_title">Предупреждение об отключении</string>
+   <string name="server_change_disconnect_alert_message">При смене сервера ваше текущее соединение разорвется. Вы хотите продолжить?</string>
+
+   <string name="notifications">Уведомления</string>
+   <string name="dark_mode">Темный режим</string>
+   <string name="persistent_notification_summary">Показать постоянное уведомление на панели уведомлений</string>
+   <string name="persistent_notification">Постоянное уведомление</string>
+   <string name="persistent_notif_title">VPN не подключен!</string>
+   <string name="persistent_notif_text">Подключитесь, чтобы быть БЕЗОПАСНЫМ…</string>
+   <string name="subscription">Подпишитесь</string>
+   <string name="monthly_prompt">* Ежемесячная подписка будет автоматически продлеваться каждый месяц</string>
+   <string name="monthly_price">%1$s в месяц</string>
+   <string name="yearly_price">%1$s в год</string>
+   <string name="purchase_flow_fail">Не удалось начать событие покупки</string>
+   <string name="subscribe_prompt">Наслаждайтесь приложением vpn без рекламы всего за:</string>
+
+   <string name="language_pref_title">Язык</string>
+   <string name="default_mode">По умолчанию (система)</string>
+   <string name="lang_summary">Текущий выбранный язык: %1$s</string>
+   <string name="language_dialog_title">Выберите язык отображения</string>
+   <string name="display_mode_summary">Установлен режим отображения: %1$s</string>
+   <string name="dark">Темный</string>
+   <string name="light">Свет</string>
+   <string name="connect">подключиться</string>
+   <string name="disconnect">Отключить</string>
+   <string name="no_app_event">К сожалению, нет приложения для обработки этого действия</string>
+   <string name="app_search_hint">Введите название приложения</string>
+   <string name="app_search_placeholder">Ищите приложения здесь</string>
+   <string name="app_info">Просматривайте страницы в Интернете бесплатно и безопасно</string>
+   <string name="go_back">Вернуться назад</string>
+   <string name="username">Имя пользователя</string>
+   <string name="password">Пароль</string>
+   <string name="show_password">Показать пароль</string>
+   <string name="save_password">Сохранить пароль</string>
+   <string name="apps_using_change_disconnect_alert_message">Конфигурация приложений изменилась. Вам необходимо повторно подключиться, чтобы изменения вступили в силу. Вы хотите отключиться сейчас?</string>
+   <string name="update_required">Требуется обновление</string>
+   <string name="update_required_message">Доступно новое обновление. Настоятельно рекомендуется установить обновление, чтобы продолжать пользоваться нашим приложением без каких-либо проблем.</string>
+   <string name="help_us_prompt">Нам нужна ваша помощь для поддержки наших серверов в рабочем состоянии</string>
+
+   <string name="downloads">Téléchargements:%1$s</string>
+   <string name="uploads">Importations:%1$s</string>
+   <string name="notif_rate">Téléchargements:%1$s Téléchargements:%2$s</string>
+   <string name="channel_name_background">Statistiques de connexion</string>
+   <string name="channel_description_background">Statistiques en cours de la connexion OpenVPN établie</string>
+   <string name="channel_name_status">Changement d\'état de connexion</string>
+   <string name="channel_description_status">Changements d\'état de la connexion OpenVPN (Connexion, authentification,…)</string>
+   <string name="channel_name_user_req">Interaction de l\'utilisateur requise</string>
+   <string name="channel_description_user_req">La connexion OpenVPN nécessite une entrée utilisateur, par ex. authentification à deux facteurs</string>
+   <string name="first_time_load">Chargement pour la première fois \n Veuillez patienter…</string>
+   <string name="retry">Réessayer</string>
+   <string name="connecting_to">Connexion à%1$s</string>
+   <string name="load_servers_error">Erreur lors du chargement des serveurs! Veuillez cliquer ci-dessous pour réessayer.</string>
+
+   <string name="certificate_outdated_update_prompt">Используемый сертификат устарел. Обновите приложение, чтобы продолжить нормальное соединение.</string>
+   <string name="illegal_copy">Незаконная копия</string>
+   <string name="unlicensed_copy">Похоже, вы используете нелицензионную копию приложения. Пожалуйста, скачайте приложение из Google Play Store, это совершенно бесплатно.</string>
+   <string name="download">Скачать</string>
+   <string name="uninstall_toast">Сначала вам нужно удалить приложение</string>
+
+   <string name="version_1_s">Версия: %1$s</string>
+   <string name="hide_servers_list">Скрыть список серверов</string>
+   <string name="refresh_servers_list">Обновить список серверов</string>
+   <string name="purchase_description">Подпишитесь, чтобы убрать рекламу</string>
+   <string name="rate_description">Оцените нас</string>
+   <string name="share_description">Поделиться приложением</string>
+   <string name="support_us_title">Поддержите нас</string>
+   <string name="support_us_prompt">Несколько секунд вашего времени помогут нам расширить наши серверы. Вы хотите просмотреть быстрое объявление?</string>
+
+</resources>
